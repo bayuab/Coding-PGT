@@ -1,0 +1,5 @@
+1. MD : Membuat directory baru
+
+2. DIR : Menampilkan isi directory
+
+3. 
